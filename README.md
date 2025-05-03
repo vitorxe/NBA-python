@@ -19,10 +19,13 @@ Este projeto faz parte do meu portfólio de estudos. Ele será atualizado confor
 NBA-python/
 ├── dados/
 │ └── datasets.csv
+
 ├── notebooks/
 │ └── DatasetNBA.ipynb
+
 ├── imagens/
 │ └── grafico1.png
+
 ├── README.md
 └── requirements.txt
 
