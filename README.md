@@ -23,9 +23,6 @@ dados/
 notebooks/
 -DatasetNBA.ipynb
 
-imagens/
--grafico1.png
-
 README.md
 -requirements.txt
 
