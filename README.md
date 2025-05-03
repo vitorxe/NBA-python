@@ -39,6 +39,6 @@ NBA-python/
 
 ## Requiements 
 As bibliotecas utilizadas foram:
-- matplotlib
+- Matplotlib
 - Pandas
 - Seaborn
