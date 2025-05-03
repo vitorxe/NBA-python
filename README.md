@@ -17,16 +17,16 @@ Este projeto faz parte do meu portfólio de estudos. Ele será atualizado confor
 ## Estrutura do Projeto
 
 NBA-python/
-├── dados/
-│ └── datasets.csv
+dados/
+└── datasets.csv
 
-├── notebooks/
-│ └── DatasetNBA.ipynb
+notebooks/
+└── DatasetNBA.ipynb
 
-├── imagens/
-│ └── grafico1.png
+imagens/
+└── grafico1.png
 
-├── README.md
+README.md
 └── requirements.txt
 
 ## Observações
