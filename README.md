@@ -15,3 +15,30 @@ O principal objetivo deste projeto é aplicar conceitos básicos e intermediári
 Este projeto faz parte do meu portfólio de estudos. Ele será atualizado conforme eu for aprendendo novas técnicas e ferramentas.
 
 ## Estrutura do Projeto
+
+NBA-python/
+├── dados/
+│ └── datasets.csv
+├── notebooks/
+│ └── DatasetNBA.ipynb
+├── imagens/
+│ └── grafico1.png
+├── README.md
+└── requirements.txt
+
+## Observações
+
+- Os dados utilizados são públicos e foram baixados de [fonte aqui].
+- Este projeto é voltado para fins educacionais.
+
+## Próximos passos
+
+- [ ] Limpeza mais avançada dos dados
+- [ ] Aplicação de modelos simples de Machine Learning
+- [ ] Organização com scripts Python
+
+## Requiements 
+As bibliotecas utilizadas foram:
+- matplotlib
+- Pandas
+- Seaborn
